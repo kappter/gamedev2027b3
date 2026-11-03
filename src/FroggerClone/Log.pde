@@ -1,0 +1,5 @@
+// Mr Kapptie
+class Log {
+  
+
+}
