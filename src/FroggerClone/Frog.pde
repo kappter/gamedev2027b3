@@ -3,7 +3,7 @@
 class Frog {
   // Member Variable
   int x,y,w,h;
-  p1 PImage;
+  PImage p1;
   float health;
 
   // Constructor
@@ -23,7 +23,7 @@ class Frog {
 
   }
 
-  void move() {}
-  void fire() {]
-  void jump() {}
+  //void move() {}
+  //void fire() {]
+  //void jump() {}
 }
