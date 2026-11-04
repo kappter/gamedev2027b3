@@ -15,7 +15,12 @@ class Player{
   }
 
   // Member Methods
-  void display() {}
+  void display() {
+    // TODO: replace rect with PImage
+    // image(p1,x,y);
+    fill(222,44,63);
+    rect(x,y,w,h);
+  }
   void move() {}
   void attack() {}
   void fire() {}
